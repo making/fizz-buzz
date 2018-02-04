@@ -6,7 +6,7 @@
 
     <groupId>am.ik.functions</groupId>
     <artifactId>fizz-buzz</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>fizz-buzz</name>
     <description>FizzBuzz as a function</description>
